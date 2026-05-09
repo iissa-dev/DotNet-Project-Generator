@@ -7,8 +7,6 @@ This is a PowerShell script that helps you start a new .NET project quickly. It 
 *   Organizes internal folders (Entities, Interfaces, DTOs, etc.).
 *   Automatically installs essential **NuGet Packages** (EF Core, JWT, Swagger).
 *   Sets up all **Project References** (Dependencies) correctly.
-*   Includes a `.gitignore` file to keep your repo clean.
-
 ## 🛠️ How to Use
 
 1.  **Open PowerShell** as Administrator.
